@@ -1,3 +1,6 @@
+
+![image](https://github.com/glh239/GLHBannerView/blob/master/动图1.gif)
+![image](https://github.com/glh239/GLHBannerView/blob/master/动图2.gif)
 # GLHBannerView
 tableview顶部视图无限自动滚动  下拉可放大
 
